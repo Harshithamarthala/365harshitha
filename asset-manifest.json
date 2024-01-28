@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/365harshitha/static/css/main.e6c13ad2.css",
+    "main.js": "/365harshitha/static/js/main.777ecdd3.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/365harshitha/static/js/787.0f7dc5a1.chunk.js",
+    "index.html": "/365harshitha/index.html",
+    "main.e6c13ad2.css.map": "/365harshitha/static/css/main.e6c13ad2.css.map",
+    "main.777ecdd3.js.map": "/365harshitha/static/js/main.777ecdd3.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/365harshitha/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.777ecdd3.js"
+  ]
+}
